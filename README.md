@@ -30,7 +30,7 @@ An elegant iOS **SwiftUI** app showcasing a custom bottom navigation flow for ma
     - Hit **Cmd + R**
 
 4. **Requirements**  
-    - macOS 13+  
+   
     - Xcode 15+  
     - iOS 17+ deployment target
 
